@@ -1,0 +1,21 @@
+import { StyleSheet } from "react-native";
+import { colors } from "../../theme/color";
+import { scale, verticalScale } from "../../utils/scale";
+
+export default StyleSheet.create({
+  container: {
+    backgroundColor: colors.white,
+    borderRadius: scale(4),
+    paddingHorizontal: scale(8),
+    paddingVertical: verticalScale(10),
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between",
+    overflow: "hidden",
+  },
+  input: {
+    fontSize: scale(16),
+    color: colors.black,
+    flex: 1,
+  },
+});

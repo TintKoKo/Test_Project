@@ -1,0 +1,8 @@
+const SET_APP_THEME = "SET_APP_THEME";
+
+const SET_LANGUAGE = "SET_LANGUAGE";
+
+export default {
+  SET_APP_THEME,
+  SET_LANGUAGE,
+};

@@ -1,0 +1,55 @@
+{
+  "en": {
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "remember-me": "Remember Me",
+    "dont-have-account": "Don't have account?",
+    "signup-now": "Signup now",
+
+    "mobile": "Mobile",
+    "topup": "Topup",
+    "from": "From",
+    "account": "Account",
+    "number": "Number",
+    "operator": "Operator",
+    "description": "Description",
+
+    "available-balance": "Available Balance",
+    "amount": "Amount",
+    "confirm": "Confirm",
+    "discount": "Discount",
+    "net": "Net",
+    "please-fill-transaction-password": "Please fill transaction password",
+    "your-transaction-has-been-successfully-completed": "Your transaction has been successfully completed",
+    "transaction-id": "Transaction ID",
+    "bill": "Bill",
+    "ok": "OK"
+  },
+  "my": {
+    "login": "လော့ဂ်အင်",
+    "username": "Username",
+    "password": "Password",
+    "remember-me": "Remember Me",
+    "dont-have-account": "Don't have account?",
+    "signup-now": "Signup now",
+
+    "mobile": "Mobile",
+    "topup": "Topup",
+    "from": "From",
+    "account": "Account",
+    "number": "Number",
+    "operator": "Operator",
+    "description": "Description",
+    "available-balance": "Available Balance",
+    "amount": "Amount",
+    "confirm": "Confirm",
+    "discount": "Discount",
+    "net": "Net",
+    "please-fill-transaction-password": "Please fill transaction password",
+    "your-transaction-has-been-successfully-completed": "Your transaction has been successfully completed",
+    "transaction-id": "Transaction ID",
+    "bill": "Bill",
+    "ok": "OK"
+  }
+}
